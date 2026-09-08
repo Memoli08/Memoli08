@@ -2,13 +2,11 @@
 Hello, I am a curious maker who loves combining hardware and software and developing applications in my own unique style.. 🚀<br><br>
 
 🔭 **Currently working on:**<br><br>
-
 * 📱 **L2L Converter**
 * ⌚ **My own Smartwatch**
 * 🥥 **Coconut Pilot**
 
 🌱 **Currently learning:**<br><br>
-
 * 🐧 Ubuntu & CachyOS
 * 🐍 Python
 * 🤖 Machine Learning & Deep Learning
